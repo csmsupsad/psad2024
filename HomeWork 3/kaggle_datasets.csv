@@ -1,0 +1,557 @@
+Tag,DataType,Size,License,Downloads
+business,Other,large,CC0,3593
+business,CSV,medium,Other,3904
+healthcare,CSV,large,CC0,3376
+food and drink,CSV,huge,Other,3347
+video games,CSV,huge,CC4,3684
+united states,CSV,tiny,ODbL,4893
+popular culture,Other,huge,CC0,1133
+popular culture,CSV,large,CC0,3440
+healthcare,CSV,large,CC0,2454
+healthcare,CSV,medium,Other,4430
+languages,CSV,medium,CC0,2901
+finance,CSV,medium,CC4,2525
+finance,Other,medium,CC0,3663
+healthcare,CSV,tiny,Other,4466
+finance,CSV,large,CC0,3659
+news agencies,Other,medium,Other,3097
+popular culture,CSV,medium,Other,4172
+politics,CSV,tiny,CC0,3042
+healthcare,CSV,tiny,Other,3212
+food and drink,CSV,tiny,ODbL,4236
+languages,CSV,medium,CC0,498
+languages,CSV,tiny,Other,1667
+business,CSV,large,CC4,4354
+languages,CSV,large,CC0,3111
+crime,CSV,small,CC0,4804
+healthcare,CSV,medium,Other,2887
+finance,CSV,small,CC4,3817
+video games,CSV,medium,CC0,2875
+news agencies,CSV,medium,CC4,1281
+healthcare,CSV,medium,CC0,3366
+finance,CSV,large,Other,3448
+finance,CSV,small,Other,3258
+food and drink,CSV,tiny,ODbL,3359
+healthcare,Other,large,Other,1732
+healthcare,Other,huge,CC4,1912
+popular culture,CSV,small,CC0,2009
+politics,SQLite,small,CC4,3990
+video games,CSV,tiny,CC4,2256
+business,Other,large,CC4,954
+languages,CSV,medium,Other,1473
+food and drink,CSV,medium,CC4,1900
+finance,CSV,tiny,CC0,3470
+popular culture,CSV,tiny,CC0,1544
+business,Other,large,Other,3335
+india,CSV,tiny,CC0,1873
+business,CSV,large,CC4,2357
+food and drink,Other,large,CC4,1075
+cities,CSV,tiny,CC0,2823
+popular culture,Other,large,CC4,2701
+internet,CSV,huge,Other,1534
+healthcare,{}JSON,large,CC4,1518
+linguistics,CSV,large,ODbL,1519
+government agencies,CSV,large,CC0,1278
+video games,CSV,large,Other,1104
+video games,CSV,small,ODbL,1832
+business,CSV,tiny,Other,4575
+popular culture,CSV,small,Other,1061
+business,Other,large,CC4,708
+business,CSV,small,CC0,843
+finance,Other,small,Other,1837
+india,CSV,small,CC4,1787
+healthcare,CSV,medium,Other,2146
+politics,CSV,small,Other,2923
+linguistics,CSV,large,ODbL,1705
+healthcare,CSV,large,CC4,1195
+healthcare,Other,large,Other,1110
+cities,CSV,medium,Other,1794
+news agencies,CSV,medium,CC0,2284
+languages,CSV,tiny,Other,1399
+cities,CSV,huge,ODbL,2596
+food and drink,Other,medium,Other,2477
+business,CSV,medium,Other,999
+news agencies,CSV,small,Other,2251
+languages,{}JSON,medium,CC4,884
+business,CSV,large,CC0,2350
+finance,Other,small,Other,605
+languages,CSV,large,ODbL,621
+crime,Other,medium,Other,2050
+video games,Other,large,CC4,628
+united states,CSV,small,CC0,1517
+politics,CSV,small,Other,2711
+languages,CSV,tiny,ODbL,866
+popular culture,CSV,medium,CC4,1353
+india,CSV,medium,CC4,1669
+united states,CSV,tiny,CC0,921
+united states,CSV,medium,CC0,3426
+healthcare,Other,huge,CC0,707
+video games,CSV,medium,Other,481
+crime,CSV,tiny,CC0,943
+linguistics,CSV,large,Other,956
+crime,CSV,tiny,CC4,1737
+languages,CSV,huge,CC4,1539
+healthcare,Other,huge,Other,431
+languages,Other,huge,Other,591
+video games,{}JSON,small,CC0,1042
+video games,Other,huge,CC0,604
+languages,Other,small,Other,910
+business,CSV,tiny,CC0,1709
+finance,Other,small,Other,444
+crime,CSV,medium,CC0,1016
+linguistics,CSV,large,CC0,505
+crime,Other,large,CC0,1343
+business,CSV,tiny,Other,833
+healthcare,Other,large,Other,1552
+healthcare,CSV,small,Other,1372
+food and drink,Other,large,Other,1551
+united states,CSV,medium,ODbL,593
+india,CSV,tiny,CC4,1308
+popular culture,CSV,tiny,CC0,1156
+politics,SQLite,huge,ODbL,909
+news agencies,CSV,medium,CC0,650
+crime,CSV,tiny,CC0,940
+finance,CSV,medium,Other,999
+india,CSV,medium,CC4,1940
+news agencies,CSV,large,CC4,377
+internet,CSV,medium,CC4,1253
+cities,CSV,medium,CC0,1362
+united states,CSV,tiny,ODbL,553
+food and drink,CSV,medium,Other,1261
+united states,CSV,small,CC4,1560
+internet,CSV,small,CC4,1302
+cities,CSV,huge,CC0,1210
+crime,CSV,medium,ODbL,196
+business,CSV,medium,Other,2483
+languages,Other,large,CC0,433
+news agencies,CSV,tiny,Other,910
+healthcare,CSV,large,CC0,859
+finance,CSV,tiny,CC0,980
+languages,Other,huge,CC0,231
+government agencies,{}JSON,large,Other,389
+languages,CSV,small,Other,553
+popular culture,CSV,tiny,Other,567
+crime,CSV,small,CC0,374
+crime,CSV,large,Other,1695
+united states,Other,medium,CC0,671
+video games,CSV,tiny,CC4,447
+politics,CSV,medium,CC4,713
+business,CSV,large,CC0,881
+finance,CSV,small,Other,1169
+internet,CSV,huge,Other,1146
+finance,CSV,large,Other,583
+linguistics,CSV,large,Other,192
+internet,Other,large,ODbL,448
+business,CSV,tiny,Other,2301
+india,CSV,small,CC4,711
+healthcare,CSV,tiny,CC0,744
+united states,Other,medium,CC4,408
+healthcare,CSV,tiny,CC0,724
+food and drink,CSV,tiny,CC4,1028
+linguistics,CSV,huge,ODbL,633
+united states,CSV,medium,CC0,1504
+popular culture,CSV,medium,CC4,937
+languages,Other,large,CC0,430
+business,CSV,large,Other,526
+video games,CSV,medium,CC0,217
+linguistics,Other,small,CC4,857
+languages,Other,tiny,Other,342
+finance,CSV,tiny,Other,495
+healthcare,CSV,huge,Other,256
+cities,CSV,tiny,Other,517
+machine learning,CSV,huge,CC0,516
+news agencies,CSV,huge,Other,325
+crime,CSV,medium,CC0,605
+finance,CSV,tiny,CC0,541
+healthcare,CSV,large,CC4,433
+healthcare,CSV,huge,Other,311
+cities,CSV,large,CC0,539
+india,CSV,medium,Other,1135
+finance,CSV,large,CC4,517
+politics,CSV,medium,CC4,444
+news agencies,CSV,medium,CC4,241
+crime,CSV,tiny,Other,1773
+business,CSV,large,CC4,811
+finance,CSV,medium,CC4,630
+business,CSV,tiny,Other,945
+india,Other,huge,CC4,542
+popular culture,CSV,small,Other,653
+finance,CSV,medium,CC4,483
+languages,CSV,large,CC4,252
+crime,CSV,large,CC0,642
+cities,CSV,medium,Other,485
+languages,CSV,large,CC4,214
+food and drink,CSV,small,CC0,1034
+healthcare,Other,large,Other,1393
+politics,CSV,large,CC0,132
+popular culture,{}JSON,small,CC4,233
+languages,Other,large,CC4,158
+crime,CSV,tiny,CC4,766
+popular culture,Other,large,ODbL,286
+finance,CSV,medium,CC0,429
+healthcare,Other,large,Other,314
+video games,CSV,tiny,CC0,1278
+politics,CSV,large,CC0,692
+healthcare,CSV,tiny,CC0,341
+politics,CSV,small,Other,822
+business,CSV,huge,Other,296
+healthcare,CSV,tiny,CC0,1230
+business,{}JSON,large,Other,342
+languages,Other,large,CC4,170
+popular culture,CSV,medium,Other,70
+healthcare,CSV,tiny,CC0,590
+politics,CSV,tiny,Other,482
+business,CSV,medium,CC0,411
+healthcare,CSV,medium,Other,783
+united states,CSV,medium,CC0,198
+politics,CSV,large,CC4,298
+languages,CSV,medium,Other,209
+linguistics,Other,tiny,Other,252
+government agencies,Other,huge,CC0,244
+news agencies,CSV,medium,Other,498
+cities,CSV,medium,Other,463
+healthcare,CSV,tiny,Other,410
+food and drink,CSV,large,Other,622
+healthcare,CSV,tiny,Other,712
+news agencies,CSV,tiny,Other,538
+healthcare,Other,large,Other,310
+crime,CSV,large,ODbL,201
+food and drink,CSV,large,CC0,685
+linguistics,CSV,large,CC0,202
+politics,CSV,small,CC0,237
+united states,CSV,small,Other,480
+cities,CSV,tiny,Other,599
+india,CSV,small,CC4,558
+internet,CSV,tiny,CC0,222
+cities,CSV,tiny,Other,1567
+popular culture,CSV,tiny,CC0,286
+india,CSV,tiny,Other,900
+healthcare,Other,small,ODbL,293
+crime,CSV,small,CC0,163
+government agencies,CSV,large,CC0,570
+healthcare,Other,huge,Other,616
+linguistics,CSV,tiny,Other,440
+languages,{}JSON,medium,Other,411
+united states,CSV,small,CC4,479
+video games,CSV,medium,Other,740
+linguistics,CSV,huge,CC4,264
+languages,Other,medium,Other,271
+crime,CSV,tiny,CC4,250
+internet,Other,tiny,CC0,625
+food and drink,CSV,tiny,Other,536
+cities,CSV,medium,Other,568
+crime,CSV,tiny,Other,602
+video games,CSV,small,Other,106
+food and drink,CSV,tiny,CC0,618
+linguistics,CSV,medium,CC4,323
+politics,CSV,small,Other,311
+business,CSV,small,Other,908
+politics,Other,medium,CC4,1030
+politics,CSV,tiny,CC0,542
+crime,CSV,medium,CC0,866
+languages,CSV,small,CC4,271
+crime,Other,medium,CC4,557
+languages,CSV,tiny,CC0,199
+languages,Other,huge,CC4,124
+business,Other,large,CC0,74
+government agencies,Other,huge,Other,226
+politics,CSV,medium,CC0,371
+cities,CSV,small,ODbL,463
+finance,{}JSON,huge,CC0,526
+india,CSV,large,CC4,128
+government agencies,CSV,tiny,CC0,123
+india,CSV,small,CC4,908
+crime,CSV,medium,ODbL,594
+linguistics,CSV,small,Other,128
+languages,Other,large,Other,140
+languages,{}JSON,large,CC4,100
+internet,CSV,medium,CC4,619
+food and drink,CSV,tiny,Other,1246
+cities,CSV,medium,Other,234
+politics,Other,medium,Other,306
+business,CSV,medium,Other,643
+crime,CSV,large,CC0,228
+linguistics,CSV,small,CC0,344
+food and drink,CSV,tiny,CC0,732
+crime,CSV,tiny,Other,544
+languages,CSV,tiny,CC4,115
+healthcare,CSV,tiny,CC0,275
+politics,CSV,small,CC0,592
+finance,Other,small,CC0,460
+food and drink,CSV,large,CC0,998
+politics,CSV,large,Other,286
+languages,CSV,tiny,CC4,238
+finance,CSV,tiny,Other,129
+crime,CSV,huge,Other,402
+languages,CSV,tiny,Other,79
+languages,CSV,huge,Other,365
+healthcare,Other,small,CC4,433
+healthcare,CSV,medium,CC0,101
+crime,CSV,tiny,CC4,595
+government agencies,CSV,medium,CC0,263
+machine learning,CSV,huge,CC0,53
+business,CSV,small,CC0,285
+internet,CSV,medium,CC4,977
+internet,CSV,medium,CC4,419
+finance,CSV,tiny,CC0,332
+united states,CSV,tiny,CC4,237
+languages,CSV,small,Other,277
+crime,CSV,large,CC0,219
+government agencies,CSV,medium,CC0,303
+healthcare,CSV,large,CC0,307
+internet,CSV,medium,CC4,394
+cities,CSV,large,CC0,353
+cities,CSV,large,CC0,584
+cities,CSV,tiny,CC0,650
+government agencies,CSV,medium,CC0,268
+india,CSV,tiny,CC4,253
+linguistics,Other,medium,Other,249
+news agencies,CSV,tiny,Other,217
+united states,CSV,small,CC0,454
+crime,CSV,large,CC0,687
+crime,CSV,tiny,Other,237
+languages,CSV,large,CC4,97
+linguistics,CSV,small,Other,373
+finance,CSV,small,ODbL,285
+politics,CSV,small,CC0,504
+finance,CSV,large,CC0,219
+healthcare,CSV,large,Other,313
+linguistics,Other,medium,CC4,55
+finance,Other,tiny,CC0,324
+cities,CSV,small,Other,67
+healthcare,CSV,medium,CC0,275
+linguistics,SQLite,huge,CC0,156
+politics,CSV,tiny,CC0,142
+news agencies,CSV,small,CC0,649
+crime,CSV,small,CC0,227
+languages,CSV,tiny,CC4,115
+politics,CSV,tiny,CC0,198
+languages,CSV,large,Other,197
+government agencies,Other,large,CC0,308
+languages,Other,tiny,Other,112
+business,CSV,medium,CC0,258
+languages,Other,huge,Other,97
+healthcare,CSV,medium,CC0,391
+food and drink,CSV,large,CC0,314
+cities,CSV,small,CC0,187
+internet,Other,tiny,CC0,251
+machine learning,Other,large,CC0,77
+machine learning,Other,large,CC0,319
+politics,Other,tiny,Other,78
+healthcare,CSV,medium,ODbL,161
+internet,CSV,medium,CC4,454
+languages,Other,large,Other,119
+languages,Other,large,Other,58
+news agencies,CSV,large,CC4,189
+languages,CSV,large,Other,140
+languages,Other,tiny,CC4,87
+government agencies,CSV,tiny,Other,113
+internet,CSV,medium,CC4,454
+languages,Other,large,Other,119
+languages,Other,small,Other,246
+politics,CSV,tiny,CC0,388
+finance,CSV,medium,ODbL,452
+healthcare,CSV,small,CC4,330
+finance,CSV,tiny,CC4,463
+finance,Other,large,CC0,128
+cities,CSV,tiny,CC4,207
+business,CSV,medium,CC0,83
+languages,Other,large,CC0,68
+healthcare,CSV,small,CC0,337
+business,Other,small,Other,74
+crime,CSV,tiny,CC0,632
+crime,CSV,large,Other,131
+food and drink,CSV,large,Other,314
+crime,CSV,tiny,Other,427
+languages,CSV,medium,Other,242
+cities,CSV,tiny,ODbL,178
+languages,Other,small,Other,75
+government agencies,CSV,medium,CC0,94
+business,CSV,tiny,CC4,426
+government agencies,Other,huge,Other,98
+government agencies,Other,large,Other,89
+government agencies,CSV,huge,Other,157
+business,CSV,medium,CC4,233
+internet,CSV,tiny,CC4,57
+finance,CSV,small,CC0,159
+linguistics,Other,small,Other,51
+crime,CSV,tiny,ODbL,201
+finance,CSV,small,CC0,172
+languages,Other,huge,CC4,103
+finance,CSV,small,CC4,154
+news agencies,Other,huge,CC0,317
+cities,CSV,tiny,Other,260
+finance,CSV,small,Other,312
+business,Other,huge,CC0,243
+united states,CSV,small,CC0,221
+politics,{}JSON,tiny,CC4,67
+healthcare,CSV,medium,Other,82
+government agencies,CSV,medium,CC0,321
+finance,CSV,small,CC0,363
+cities,CSV,tiny,CC0,207
+crime,CSV,small,ODbL,247
+india,CSV,large,CC4,142
+finance,CSV,medium,CC0,132
+video games,CSV,large,CC0,64
+languages,Other,medium,CC0,75
+crime,CSV,medium,CC0,153
+politics,CSV,tiny,CC0,159
+video games,SQLite,small,ODbL,180
+politics,CSV,tiny,CC0,240
+news agencies,CSV,large,CC0,182
+politics,CSV,tiny,CC0,144
+business,CSV,large,ODbL,311
+linguistics,Other,huge,CC4,151
+news agencies,CSV,tiny,Other,384
+finance,CSV,medium,Other,98
+crime,CSV,small,Other,156
+crime,CSV,medium,CC0,372
+politics,CSV,tiny,CC0,320
+languages,CSV,small,ODbL,83
+finance,Other,tiny,ODbL,174
+video games,CSV,large,CC4,201
+video games,CSV,tiny,Other,145
+politics,CSV,small,CC4,89
+cities,CSV,tiny,CC0,73
+healthcare,Other,large,Other,100
+crime,CSV,medium,ODbL,116
+food and drink,CSV,tiny,Other,312
+video games,CSV,tiny,CC4,142
+politics,CSV,tiny,Other,200
+languages,CSV,tiny,CC4,98
+languages,Other,tiny,CC4,474
+languages,{}JSON,medium,Other,59
+food and drink,CSV,medium,CC0,139
+government agencies,Other,huge,CC0,112
+crime,Other,huge,Other,91
+india,CSV,large,CC4,137
+business,Other,medium,CC0,56
+business,CSV,tiny,Other,207
+india,CSV,small,CC4,205
+government agencies,CSV,medium,CC0,122
+government agencies,CSV,medium,CC0,153
+cities,CSV,medium,CC0,100
+food and drink,Other,huge,Other,62
+business,CSV,tiny,Other,98
+healthcare,CSV,tiny,Other,78
+politics,Other,small,CC0,90
+healthcare,CSV,tiny,ODbL,112
+food and drink,CSV,tiny,CC0,162
+crime,CSV,large,CC0,141
+linguistics,Other,medium,Other,129
+government agencies,CSV,medium,CC0,146
+government agencies,CSV,medium,Other,55
+politics,CSV,medium,CC0,102
+finance,CSV,small,CC0,321
+business,CSV,tiny,CC0,126
+languages,{}JSON,tiny,CC4,51
+government agencies,CSV,huge,CC0,160
+government agencies,CSV,huge,Other,119
+government agencies,CSV,huge,Other,120
+politics,CSV,tiny,CC0,98
+video games,CSV,tiny,CC0,172
+popular culture,CSV,tiny,CC0,250
+healthcare,CSV,tiny,CC0,200
+news agencies,CSV,tiny,Other,79
+news agencies,CSV,tiny,Other,219
+politics,CSV,large,Other,158
+finance,CSV,tiny,Other,603
+video games,CSV,tiny,CC0,96
+crime,CSV,large,Other,344
+healthcare,CSV,small,ODbL,318
+crime,CSV,tiny,Other,155
+cities,CSV,large,Other,78
+food and drink,CSV,medium,Other,355
+india,CSV,medium,CC4,55
+india,CSV,tiny,CC0,197
+finance,CSV,medium,CC0,86
+politics,CSV,small,CC0,157
+crime,CSV,medium,CC0,163
+languages,CSV,tiny,ODbL,71
+food and drink,Other,huge,Other,62
+healthcare,CSV,tiny,Other,78
+politics,Other,small,CC0,90
+healthcare,Other,tiny,CC0,116
+government agencies,CSV,small,Other,82
+languages,Other,medium,Other,86
+politics,CSV,small,Other,124
+food and drink,Other,tiny,CC0,85
+business,CSV,tiny,Other,183
+crime,CSV,large,CC0,329
+languages,{}JSON,large,CC4,72
+politics,CSV,tiny,CC4,86
+languages,CSV,small,Other,62
+internet,CSV,small,CC4,129
+video games,CSV,tiny,Other,149
+popular culture,CSV,tiny,CC0,129
+food and drink,CSV,tiny,CC0,279
+news agencies,Other,large,Other,86
+united states,CSV,tiny,CC0,55
+cities,CSV,small,Other,223
+crime,Other,medium,Other,94
+crime,Other,huge,Other,67
+linguistics,CSV,large,Other,91
+india,CSV,tiny,CC4,341
+india,Other,huge,CC4,154
+india,CSV,tiny,CC0,69
+business,CSV,tiny,CC0,56
+linguistics,Other,huge,CC4,53
+finance,Other,small,CC4,137
+politics,CSV,large,CC0,135
+healthcare,CSV,tiny,ODbL,290
+government agencies,CSV,large,CC0,79
+healthcare,CSV,small,CC4,51
+finance,CSV,small,CC0,86
+government agencies,CSV,medium,CC0,89
+healthcare,Other,large,Other,114
+business,CSV,tiny,Other,86
+business,CSV,tiny,CC4,79
+finance,CSV,tiny,CC0,108
+healthcare,CSV,small,CC0,64
+crime,Other,large,Other,56
+linguistics,CSV,small,CC0,119
+finance,CSV,tiny,CC0,87
+business,CSV,tiny,Other,72
+government agencies,Other,large,Other,71
+finance,CSV,tiny,Other,88
+cities,CSV,medium,Other,60
+crime,Other,tiny,CC0,60
+india,CSV,tiny,CC0,63
+popular culture,CSV,tiny,Other,54
+internet,Other,small,CC0,75
+united states,CSV,tiny,CC0,250
+healthcare,CSV,tiny,ODbL,137
+finance,CSV,tiny,Other,146
+crime,CSV,small,CC0,136
+politics,CSV,huge,CC0,158
+popular culture,CSV,tiny,ODbL,63
+linguistics,CSV,small,Other,69
+politics,{}JSON,large,Other,150
+politics,CSV,tiny,Other,121
+news agencies,CSV,tiny,Other,69
+internet,CSV,small,CC0,57
+united states,CSV,small,CC0,116
+finance,CSV,small,CC4,158
+food and drink,CSV,tiny,Other,100
+business,CSV,tiny,CC0,115
+crime,CSV,medium,CC0,95
+healthcare,Other,tiny,CC4,96
+government agencies,CSV,small,CC0,82
+cities,CSV,medium,CC0,52
+food and drink,CSV,tiny,CC0,109
+business,Other,tiny,CC0,70
+business,Other,small,CC0,76
+business,CSV,medium,ODbL,60
+linguistics,Other,tiny,Other,59
+food and drink,CSV,tiny,CC0,61
+languages,CSV,tiny,Other,103
+cities,CSV,huge,Other,60
+united states,CSV,medium,Other,54
+politics,CSV,tiny,CC0,60
+finance,CSV,small,Other,405
+politics,CSV,medium,CC0,74
+business,CSV,small,Other,87
+cities,Other,small,CC0,52
+linguistics,Other,large,CC0,92
+finance,CSV,tiny,CC4,53
+united states,CSV,tiny,CC0,52
